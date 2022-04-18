@@ -1,0 +1,2609 @@
+2022-04-09 11:44:18 error: [Cake\Http\Exception\MissingControllerException] Controller class Src could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Src',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /src/Application.php
+
+
+2022-04-09 17:39:43 error: [Cake\Http\Exception\MissingControllerException] Controller class Src could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Src',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /src/Application.php
+
+
+2022-04-09 18:02:17 error: [Cake\Http\Exception\MissingControllerException] Controller class Src could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Src',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /src/Application.php
+
+
+2022-04-09 18:03:59 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Appoint` could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 245
+Exception Attributes: array (
+  0 => 'for alias `Appoint`',
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:315
+- C:\Web\cakephp\new_cake_app\src\Controller\AppointController.php:20
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /appoint/
+
+
+2022-04-09 18:04:28 error: [Cake\Http\Exception\MissingControllerException] Controller class Src could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Src',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /src/appoint/
+
+
+2022-04-09 18:05:10 error: [Cake\Http\Exception\MissingControllerException] Controller class Colpare could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Colpare',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /colpare/
+
+
+2022-04-09 18:05:16 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Appoint` could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 245
+Exception Attributes: array (
+  0 => 'for alias `Appoint`',
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:315
+- C:\Web\cakephp\new_cake_app\src\Controller\AppointController.php:20
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /appoint/
+
+
+2022-04-09 18:05:45 error: [Cake\Http\Exception\MissingControllerException] Controller class My_cake_app could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'My_cake_app',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /my_cake_app/appoint
+
+
+2022-04-09 18:06:58 error: [Cake\Http\Exception\MissingControllerException] Controller class My_cake_app could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'My_cake_app',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /my_cake_app/appoint
+
+
+2022-04-09 18:07:08 error: [Cake\Http\Exception\MissingControllerException] Controller class New_cake_app could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'New_cake_app',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /new_cake_app/appoint
+
+
+2022-04-09 18:08:42 error: [Cake\Http\Exception\MissingControllerException] Controller class New_cake_app could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'New_cake_app',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /new_cake_app/appoint
+
+
+2022-04-09 19:32:15 error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "appoint" with primary key [NULL] in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php on line 1513
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\src\Controller\AppointController.php:37
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /appoint/view
+
+
+2022-04-09 20:24:28 error: [Cake\Http\Exception\MissingControllerException] Controller class Src could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Src',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /src
+
+
+2022-04-10 05:55:00 error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Appoint.name' in 'field list' in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php on line 39
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:39
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:180
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:75
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:337
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:340
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:250
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:287
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1096
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\Paginator.php:180
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:856
+- C:\Web\cakephp\new_cake_app\src\Controller\AppointController.php:20
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /appoint
+
+
+2022-04-10 07:27:09 error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php on line 518
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2F
+Referer URL: http://localhost:8765/users/add
+
+
+2022-04-10 07:30:43 error: [Cake\View\Exception\MissingTemplateException] Template file `Users\login.php` could not be found.
+
+The following paths were searched:
+
+- `C:\Web\cakephp\new_cake_app\templates\Users\login.php`
+- `C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\templates\Users\login.php`
+ in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\View\View.php on line 1359
+Exception Attributes: array (
+  'file' => 'Users\\login.php',
+  'paths' => 
+  array (
+    0 => 'C:\\Web\\cakephp\\new_cake_app\\templates\\',
+    1 => 'C:\\Web\\cakephp\\new_cake_app\\vendor\\cakephp\\cakephp\\templates\\',
+  ),
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\View\View.php:766
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:764
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:548
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2F
+Referer URL: http://localhost:8765/users/add
+
+
+2022-04-10 07:33:03 error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Users.email' in 'where clause' in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php on line 39
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:39
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:180
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:75
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:337
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:340
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:250
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:287
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1096
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:494
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:78
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2F
+Referer URL: http://localhost:8765/users/login?redirect=%2F
+
+
+2022-04-10 07:33:55 error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Users.email' in 'where clause' in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php on line 39
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:39
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:180
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:75
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:337
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:340
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:250
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:287
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1096
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:494
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:78
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2F
+Referer URL: http://localhost:8765/users/login?redirect=%2F
+
+
+2022-04-10 07:40:03 error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Users.email' in 'where clause' in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php on line 39
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:39
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:180
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:75
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:337
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:340
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:250
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:287
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1096
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:494
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:78
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2F
+Referer URL: http://localhost:8765/users/login?redirect=%2F
+
+
+2022-04-10 07:40:46 error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Users.user' in 'field list' in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php on line 39
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:39
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:180
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:75
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:337
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:340
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:250
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:287
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1096
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:494
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:78
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2F
+Referer URL: http://localhost:8765/users/login?redirect=%2F
+
+
+2022-04-10 17:54:25 error: [Cake\Database\Exception\MissingConnectionException] Connection to Mysql could not be established: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php on line 133
+Exception Attributes: array (
+  'driver' => 'Mysql',
+  'reason' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it',
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:164
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\SchemaDialect.php:51
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:216
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:53
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:395
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:512
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:1699
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:59
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Caused by: [PDOException] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php on line 125
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php:125
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:164
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\SchemaDialect.php:51
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:216
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:53
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:395
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:512
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:1699
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:59
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2F
+Referer URL: http://localhost:8765/users/login?redirect=%2F
+
+
+2022-04-10 18:16:55 error: [Error] Class "App\Model\Entity\DefaultPasswordHasher" not found in C:\Web\cakephp\new_cake_app\src\Model\Entity\User.php on line 44
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\EntityTrait.php:260
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Marshaller.php:606
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2841
+- C:\Web\cakephp\new_cake_app\src\Controller\UsersController.php:82
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/add
+Referer URL: http://localhost:8765/users/add
+
+
+2022-04-11 18:03:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Imzbd could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Imzbd',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /imzbd
+
+
+2022-04-11 18:16:55 warning: Warning (512): Unable to emit headers. Headers sent in file=C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Debugger.php line=1048 in [C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 71]
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 71
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-11 18:16:55 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Debugger.php:1048) in [C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 168]
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() - CORE\src\Http\ResponseEmitter.php, line 168
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 74
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-11 18:16:55 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Debugger.php:1048) in [C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-11 18:16:55 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Debugger.php:1048) in [C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-11 18:36:52 error: [Cake\Http\Exception\MissingControllerException] Controller class User could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /user
+
+
+2022-04-11 19:05:11 error: [Error] Class "Illuminate\Support\Facades\Facade" not found in C:\Web\cakephp\new_cake_app\vendor\intervention\image\src\Intervention\Image\Facades\Image.php on line 13
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\composer\ClassLoader.php:571
+- C:\Web\cakephp\new_cake_app\vendor\composer\ClassLoader.php:428
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:65
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-11 19:20:15 error: [Error] Class "App\Controller\Image" not found in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 65
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-11 19:22:35 error: [Error] Class "App\Controller\Image" not found in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 65
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-11 19:23:34 error: [Error] Class "App\Controller\Image" not found in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 65
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-11 19:24:03 error: [Error] Class "Intervention\Image" not found in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 65
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-11 19:27:26 error: [Error] Call to undefined method Laminas\Diactoros\UploadedFile::crop() in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 66
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-12 17:51:36 error: [Cake\Http\Exception\MissingControllerException] Controller class Images could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /images
+
+
+2022-04-12 17:56:17 error: [Cake\Database\Exception\MissingConnectionException] Connection to Mysql could not be established: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php on line 133
+Exception Attributes: array (
+  'driver' => 'Mysql',
+  'reason' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it',
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:164
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\SchemaDialect.php:51
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:216
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:53
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:395
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:512
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:1699
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:59
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Caused by: [PDOException] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php on line 125
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php:125
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:164
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\SchemaDialect.php:51
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:216
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:53
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:395
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:512
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:1699
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:59
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Fimage%2Fadd
+Referer URL: http://localhost:8765/users/login?redirect=%2Fimage%2Fadd
+
+
+2022-04-12 17:57:36 error: [Cake\Http\Exception\MissingControllerException] Controller class Images could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /images
+
+
+2022-04-12 18:53:23 error: [Error] Call to undefined function App\Controller\imagecreatefrompng() in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 68
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-13 20:40:40 warning: Warning (2): Undefined array key "upload" in [C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\ValidationRule.php, line 125]
+Request URL: /image/edit/1
+Referer URL: http://localhost:8765/image/edit/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+Cake\Validation\ValidationRule::process() - CORE\src\Validation\ValidationRule.php, line 125
+Cake\Validation\Validator::_processRules() - CORE\src\Validation\Validator.php, line 2718
+Cake\Validation\Validator::validate() - CORE\src\Validation\Validator.php, line 274
+Cake\ORM\Marshaller::_validate() - CORE\src\ORM\Marshaller.php, line 275
+Cake\ORM\Marshaller::merge() - CORE\src\ORM\Marshaller.php, line 563
+Cake\ORM\Table::patchEntity() - CORE\src\ORM\Table.php, line 2841
+App\Controller\ImageController::edit() - APP/Controller\ImageController.php, line 125
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 539
+Cake\Controller\ControllerFactory::handle() - CORE\src\Controller\ControllerFactory.php, line 140
+Cake\Controller\ControllerFactory::invoke() - CORE\src\Controller\ControllerFactory.php, line 115
+Cake\Http\BaseApplication::handle() - CORE\src\Http\BaseApplication.php, line 317
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() - CORE\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() - CORE\src\Http\Middleware\BodyParserMiddleware.php, line 162
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() - ROOT\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 126
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 58
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 90
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-13 20:40:40 error: [InvalidArgumentException] Unable to call method "isBelowMaxHeight" in "upload" provider for field "image" in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\ValidationRule.php on line 138
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\Validator.php:2718
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\Validator.php:274
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Marshaller.php:275
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Marshaller.php:563
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2841
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:125
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/edit/1
+Referer URL: http://localhost:8765/image/edit/1
+
+
+2022-04-13 20:54:23 error: [BadMethodCallException] Unknown method "findbyHeightOrWidth" called on App\Model\Table\ImageTable in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php on line 2611
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:27
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image?key=100
+Referer URL: http://localhost:8765/image
+
+
+2022-04-13 20:56:13 error: [BadMethodCallException] Unknown method "findAllbyHeightOrWidth" called on App\Model\Table\ImageTable in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php on line 2611
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:27
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image?key=100
+Referer URL: http://localhost:8765/image
+
+
+2022-04-14 06:29:50 error: [Error] Call to a member function findAllByEmailOrPhone() on null in C:\Web\cakephp\new_cake_app\src\Controller\AppointController.php on line 23
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /appoint
+
+
+2022-04-14 06:31:27 error: [Error] Call to a member function findAllByEmailOrPhone() on null in C:\Web\cakephp\new_cake_app\src\Controller\AppointController.php on line 23
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /appoint
+
+
+2022-04-14 06:31:40 error: [Error] Call to a member function findAllByEmailOrPhone() on null in C:\Web\cakephp\new_cake_app\src\Controller\AppointController.php on line 23
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /appoint/
+
+
+2022-04-15 07:55:59 error: [ParseError] syntax error, unexpected token "public", expecting end of file in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 53
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\composer\ClassLoader.php:428
+- class_exists - [internal], line ??- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\App.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\App.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:338
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:72
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/?key=1200
+Referer URL: http://localhost:8765/image/
+
+
+2022-04-15 08:05:30 error: [InvalidArgumentException] Cannot convert value of type `string` to integer in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Type\IntegerType.php on line 40
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Type\IntegerType.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\TypeConverterTrait.php:39
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\PDOStatement.php:96
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:113
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:164
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\ValueBinder.php:148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:336
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:340
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:250
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:287
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1096
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\Paginator.php:180
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:856
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:34
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/?key=bytefly.jpg
+Referer URL: http://localhost:8765/image/
+
+
+2022-04-15 08:09:18 error: [TypeError] str_replace(): Argument #3 ($subject) must be of type array|string, null given in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 25
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:25
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/
+Referer URL: http://localhost:8765/users
+
+
+2022-04-15 08:09:22 error: [TypeError] str_replace(): Argument #3 ($subject) must be of type array|string, null given in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 25
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:25
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/
+
+
+2022-04-15 08:12:30 error: [BadMethodCallException] Not enough arguments for magic finder. Got 1 required 2 in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php on line 2555
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2583
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2608
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:31
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/?key=100+x+100
+Referer URL: http://localhost:8765/image/
+
+
+2022-04-15 17:51:51 warning: Warning (2): Undefined array key 1 in [C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php, line 31]
+Request URL: /image/?key=csdadcs+sdfs+ytry+567567+234drf+sdfsf
+Referer URL: http://localhost:8765/image/?key=1+2++x+1+2
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+App\Controller\ImageController::index() - APP/Controller\ImageController.php, line 31
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 539
+Cake\Controller\ControllerFactory::handle() - CORE\src\Controller\ControllerFactory.php, line 140
+Cake\Controller\ControllerFactory::invoke() - CORE\src\Controller\ControllerFactory.php, line 115
+Cake\Http\BaseApplication::handle() - CORE\src\Http\BaseApplication.php, line 317
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() - CORE\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() - CORE\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() - ROOT\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 126
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 58
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 90
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-15 17:51:51 error: [InvalidArgumentException] Expression `Image.width` is missing operator (IS, IS NOT) with `null` value. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Expression\QueryExpression.php on line 844
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Expression\QueryExpression.php:759
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Expression\QueryExpression.php:133
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:2321
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:1011
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:848
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2510
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:1263
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2587
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2608
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:31
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/?key=csdadcs+sdfs+ytry+567567+234drf+sdfsf
+Referer URL: http://localhost:8765/image/?key=1+2++x+1+2
+
+
+2022-04-15 17:55:37 warning: Warning (2): Undefined array key 1 in [C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php, line 31]
+Request URL: /image/?key=45.56
+Referer URL: http://localhost:8765/image/?key=166+++x+++564
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+App\Controller\ImageController::index() - APP/Controller\ImageController.php, line 31
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 539
+Cake\Controller\ControllerFactory::handle() - CORE\src\Controller\ControllerFactory.php, line 140
+Cake\Controller\ControllerFactory::invoke() - CORE\src\Controller\ControllerFactory.php, line 115
+Cake\Http\BaseApplication::handle() - CORE\src\Http\BaseApplication.php, line 317
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() - CORE\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() - CORE\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() - ROOT\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 126
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 58
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 90
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-15 17:55:37 error: [InvalidArgumentException] Expression `Image.width` is missing operator (IS, IS NOT) with `null` value. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Expression\QueryExpression.php on line 844
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Expression\QueryExpression.php:759
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Expression\QueryExpression.php:133
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:2321
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:1011
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:848
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2510
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:1263
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2587
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2608
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:31
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/?key=45.56
+Referer URL: http://localhost:8765/image/?key=166+++x+++564
+
+
+2022-04-15 17:56:26 error: [Cake\Http\Exception\MissingControllerException] Controller class User could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /user
+
+
+2022-04-15 18:06:08 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Error. Invalid Search format or No matching images found.` could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 245
+Exception Attributes: array (
+  0 => 'for alias `Error. Invalid Search format or No matching images found.`',
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:845
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:38
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/
+Referer URL: http://localhost:8765/users
+
+
+2022-04-15 18:12:54 error: [Cake\Http\Exception\MissingControllerException] Controller class User could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /user
+
+
+2022-04-15 18:15:43 error: [ParseError] syntax error, unexpected token "}" in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 41
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\composer\ClassLoader.php:428
+- class_exists - [internal], line ??- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\App.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\App.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:338
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:72
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/
+Referer URL: http://localhost:8765/users
+
+
+2022-04-15 18:25:41 warning: Warning (2): Array to string conversion in [C:\Web\cakephp\new_cake_app\templates\Image\index.php, line 36]
+Request URL: /image/
+Referer URL: http://localhost:8765/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+include - ROOT\templates\Image\index.php, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1181
+Cake\View\View::_render() - CORE\src\View\View.php, line 1138
+Cake\View\View::render() - CORE\src\View\View.php, line 769
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 764
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 548
+Cake\Controller\ControllerFactory::handle() - CORE\src\Controller\ControllerFactory.php, line 140
+Cake\Controller\ControllerFactory::invoke() - CORE\src\Controller\ControllerFactory.php, line 115
+Cake\Http\BaseApplication::handle() - CORE\src\Http\BaseApplication.php, line 317
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() - CORE\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() - CORE\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() - ROOT\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 126
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 58
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 90
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-15 18:25:41 warning: Warning (2): Array to string conversion in [C:\Web\cakephp\new_cake_app\templates\Image\index.php, line 36]
+Request URL: /image/
+Referer URL: http://localhost:8765/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+include - ROOT\templates\Image\index.php, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1181
+Cake\View\View::_render() - CORE\src\View\View.php, line 1138
+Cake\View\View::render() - CORE\src\View\View.php, line 769
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 764
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 548
+Cake\Controller\ControllerFactory::handle() - CORE\src\Controller\ControllerFactory.php, line 140
+Cake\Controller\ControllerFactory::invoke() - CORE\src\Controller\ControllerFactory.php, line 115
+Cake\Http\BaseApplication::handle() - CORE\src\Http\BaseApplication.php, line 317
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() - CORE\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() - CORE\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() - ROOT\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 126
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 58
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 90
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-15 18:31:32 warning: Warning (2): Array to string conversion in [C:\Web\cakephp\new_cake_app\templates\Image\index.php, line 18]
+Request URL: /image/
+Referer URL: http://localhost:8765/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+include - ROOT\templates\Image\index.php, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1181
+Cake\View\View::_render() - CORE\src\View\View.php, line 1138
+Cake\View\View::render() - CORE\src\View\View.php, line 769
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 764
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 548
+Cake\Controller\ControllerFactory::handle() - CORE\src\Controller\ControllerFactory.php, line 140
+Cake\Controller\ControllerFactory::invoke() - CORE\src\Controller\ControllerFactory.php, line 115
+Cake\Http\BaseApplication::handle() - CORE\src\Http\BaseApplication.php, line 317
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() - CORE\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() - CORE\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() - ROOT\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 126
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 58
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 90
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-15 18:34:31 error: [Cake\Controller\Exception\MissingActionException] Action ImageController::users() could not be found, or is not accessible. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php on line 518
+Exception Attributes: array (
+  'controller' => 'ImageController',
+  'action' => 'users',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/users
+Referer URL: http://localhost:8765/image/
+
+
+2022-04-17 07:15:00 warning: Warning (2): Undefined array key "upload" in [C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\ValidationRule.php, line 125]
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+Cake\Validation\ValidationRule::process() - CORE\src\Validation\ValidationRule.php, line 125
+Cake\Validation\Validator::_processRules() - CORE\src\Validation\Validator.php, line 2718
+Cake\Validation\Validator::validate() - CORE\src\Validation\Validator.php, line 274
+Cake\ORM\Marshaller::_validate() - CORE\src\ORM\Marshaller.php, line 275
+Cake\ORM\Marshaller::merge() - CORE\src\ORM\Marshaller.php, line 563
+Cake\ORM\Table::patchEntity() - CORE\src\ORM\Table.php, line 2841
+App\Controller\ImageController::add() - APP/Controller\ImageController.php, line 75
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 539
+Cake\Controller\ControllerFactory::handle() - CORE\src\Controller\ControllerFactory.php, line 140
+Cake\Controller\ControllerFactory::invoke() - CORE\src\Controller\ControllerFactory.php, line 115
+Cake\Http\BaseApplication::handle() - CORE\src\Http\BaseApplication.php, line 317
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() - CORE\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() - CORE\src\Http\Middleware\BodyParserMiddleware.php, line 162
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() - ROOT\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 126
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 58
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 90
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-17 07:15:00 error: [InvalidArgumentException] Unable to call method "isBelowMaxHeight" in "upload" provider for field "image" in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\ValidationRule.php on line 138
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\Validator.php:2718
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\Validator.php:274
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Marshaller.php:275
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Marshaller.php:563
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2841
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:75
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-17 07:16:59 warning: Warning (2): Undefined array key "upload" in [C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\ValidationRule.php, line 125]
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 185
+DebugKit\Plugin::DebugKit\{closure}() - ROOT\vendor\cakephp\debug_kit\src\Plugin.php, line 123
+Cake\Validation\ValidationRule::process() - CORE\src\Validation\ValidationRule.php, line 125
+Cake\Validation\Validator::_processRules() - CORE\src\Validation\Validator.php, line 2718
+Cake\Validation\Validator::validate() - CORE\src\Validation\Validator.php, line 274
+Cake\ORM\Marshaller::_validate() - CORE\src\ORM\Marshaller.php, line 275
+Cake\ORM\Marshaller::merge() - CORE\src\ORM\Marshaller.php, line 563
+Cake\ORM\Table::patchEntity() - CORE\src\ORM\Table.php, line 2841
+App\Controller\ImageController::add() - APP/Controller\ImageController.php, line 75
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 539
+Cake\Controller\ControllerFactory::handle() - CORE\src\Controller\ControllerFactory.php, line 140
+Cake\Controller\ControllerFactory::invoke() - CORE\src\Controller\ControllerFactory.php, line 115
+Cake\Http\BaseApplication::handle() - CORE\src\Http\BaseApplication.php, line 317
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() - CORE\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() - CORE\src\Http\Middleware\BodyParserMiddleware.php, line 162
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() - ROOT\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 161
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 126
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() - CORE\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 58
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 90
+[main] - ROOT\webroot\index.php, line 40
+
+2022-04-17 07:16:59 error: [InvalidArgumentException] Unable to call method "isBelowMaxHeight" in "upload" provider for field "image" in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\ValidationRule.php on line 138
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\Validator.php:2718
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Validation\Validator.php:274
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Marshaller.php:275
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Marshaller.php:563
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:2841
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:75
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-17 07:37:46 error: [Error] Class "App\Controller\Image" not found in C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php on line 86
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/add
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-17 08:00:13 error: [Cake\Controller\Exception\MissingActionException] Action ImageController::image() could not be found, or is not accessible. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php on line 518
+Exception Attributes: array (
+  'controller' => 'ImageController',
+  'action' => 'image',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/image
+
+
+2022-04-17 08:00:18 error: [Cake\Controller\Exception\MissingActionException] Action ImageController::image.php() could not be found, or is not accessible. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php on line 518
+Exception Attributes: array (
+  'controller' => 'ImageController',
+  'action' => 'image.php',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/image.php
+
+
+2022-04-17 08:10:03 error: [Cake\Controller\Exception\MissingActionException] Action ImageController::image() could not be found, or is not accessible. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php on line 518
+Exception Attributes: array (
+  'controller' => 'ImageController',
+  'action' => 'image',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:135
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/image
+
+
+2022-04-17 08:13:41 error: [Cake\Http\Exception\InvalidCsrfTokenException] CSRF token from either the request body or request headers did not match or is missing. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php on line 417
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:170
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /save-image
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-17 08:32:00 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /webroot/js/croppie.js
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-17 08:32:00 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 349
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:315
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /webroot/js/croppie.js
+Referer URL: http://localhost:8765/image/add
+
+
+2022-04-17 08:49:17 error: [InvalidArgumentException] Cannot convert value of type `string` to integer in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Type\IntegerType.php on line 40
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Type\IntegerType.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\TypeConverterTrait.php:39
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\PDOStatement.php:96
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:113
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:164
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\ValueBinder.php:148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:336
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:340
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Query.php:250
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1148
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php:287
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:1096
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Datasource\Paginator.php:180
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:856
+- C:\Web\cakephp\new_cake_app\src\Controller\ImageController.php:45
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\Controller.php:539
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:140
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:115
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\BaseApplication.php:317
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /image/?key=ffghgxerrter
+Referer URL: http://localhost:8765/image/?key=+1+0+0+x+++10++++0+
+
+
+2022-04-18 02:49:01 error: [Cake\Database\Exception\MissingConnectionException] Connection to Mysql could not be established: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php on line 133
+Exception Attributes: array (
+  'driver' => 'Mysql',
+  'reason' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it',
+)
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:164
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\SchemaDialect.php:51
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:216
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:53
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:395
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:512
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:1699
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:59
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Caused by: [PDOException] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php on line 125
+Stack Trace:
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php:125
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:164
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\SchemaDialect.php:51
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php:216
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:53
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Database\Connection.php:395
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:512
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\ORM\Table.php:1699
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\Resolver\OrmResolver.php:59
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:154
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\PasswordIdentifier.php:99
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Identifier\IdentifierCollection.php:52
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Authenticator\FormAuthenticator.php:131
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\AuthenticationService.php:183
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:105
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Web\cakephp\new_cake_app\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Web\cakephp\new_cake_app\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Fusers
+Referer URL: http://localhost:8765/users/login?redirect=%2Fusers
+
+
