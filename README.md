@@ -34,11 +34,6 @@ bin/cake server -p 8765
 
 Then visit `http://localhost:8765` to see the welcome page.
 
-## Update
-
-Since this skeleton is a starting point for your application and various files
-would have been modified as per your needs, there isn't a way to provide
-automated upgrades, so you have to do any updates manually.
 
 ## Configuration
 
@@ -46,8 +41,7 @@ Read and edit the environment specific `config/app_local.php` and setup the
 `'Datasources'` and any other configuration relevant for your application.
 Other environment agnostic settings can be changed in `config/app.php`.
 
-## Layout
-
-The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
-framework by default. You can, however, replace it with any other library or
-custom styles.
+# Application specification Notes
+```Appoint``` was a random table used to learn functioning of CakePHP. Please ignore it as a part of Assignment.
+Image cropping using a dependency causes a flood of bugs. They have been commented in ```Image``` Models and Controllers.
+Validator for Maximum image sizes have been commented out but can be used as well.
