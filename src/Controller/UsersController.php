@@ -12,7 +12,6 @@ namespace App\Controller;
  */
 class UsersController extends AppController
 {
-
     public function login()
     {
         $this->request->allowMethod(['get', 'post']);
@@ -141,5 +140,4 @@ class UsersController extends AppController
         // $this->Authentication->addUnauthenticatedActions(['login']);
         $this->Authentication->addUnauthenticatedActions(['login', 'add']);
     }
-    
 }

@@ -14,7 +14,7 @@
 
         
     <?= $this->Form->create(null, ['type'=>'get'])?>
-    <?= $this->Form->control('key',['label'=>'Search','placeholder'=> 'Width x Height', 'value'=>$this->request->getQuery('key')])?>
+    <?= $this->Form->control('key', ['label'=>'Search','placeholder'=> 'Width x Height', 'value'=>$this->request->getQuery('key')])?>
     <?= $this->Form->submit(null, ['class' => 'button float-right'])?>
     <?= $this->Form->end()?> 
 

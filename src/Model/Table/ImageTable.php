@@ -70,7 +70,7 @@ class ImageTable extends Table
             //     'message' => 'This image should not be wider than 1080px',
             //     'provider' => 'upload'
             // ])
-            ->add( 'image', [
+            ->add('image', [
                 'mimeType' => [
                     'rule' => [ 'mimeType', [ 'image/jpg', 'image/png', 'image/jpeg' ] ],
                     'message' => 'Invalid Format: Please upload only jpg and png.',
@@ -79,7 +79,7 @@ class ImageTable extends Table
                     'rule' => [ 'fileSize', '<=', '1MB' ],
                     'message' => 'Invalid Size: Image file size must be less than 1MB.',
                 ],
-            ] );
+            ]);
 
         $validator
             ->integer('height')

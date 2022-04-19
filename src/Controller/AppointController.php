@@ -18,11 +18,10 @@ class AppointController extends AppController
     public function index()
     {
         $key = $this->request->getQuery('key');
-        if(!$key){
+        if (!$key) {
             // $query = $this->Appoint->find('all')->where(['Or' => ['email like'=>'%'.$key.'%','phone like'=>'%'.$key.'%']]);
             $query = $this->Appoint->find('all')->where(['id like'=>'%'.$key.'%']);
-            // $query = $this->Image->findAllByEmailOrPhone($key);
-            
+        // $query = $this->Image->findAllByEmailOrPhone($key);
         } else {
             $query = $this->Appoint;
         }

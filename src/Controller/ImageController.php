@@ -30,16 +30,14 @@ class ImageController extends AppController
             $refstr = explode("x", $string);
             // $query = $this->Image->find('all')->where(['And' => ['Image.height LIKE'=>'%'.$key.'%','Image.width LIKE'=>'%'.$key.'%']]);
             //exit($query);
-            $query = $this->Image->findAllByWidthAndHeight($refstr[1],$refstr[0]);
-            // $query = $this->Image->findAllByHeightAndWidth($refstr[0],$refstr[1]);
+            $query = $this->Image->findAllByWidthAndHeight($refstr[1], $refstr[0]);
+        // $query = $this->Image->findAllByHeightAndWidth($refstr[0],$refstr[1]);
             //exit($query);
-
         } else {
             $query = $this->Image;
-
         }
 
-        if(empty($query)){
+        if (empty($query)) {
             throw new NotFoundException("No matching image with dimensions found");
         }
         $image = $this->paginate($query);
@@ -91,12 +89,12 @@ class ImageController extends AppController
                 // imagecopy(
                 //     $dest,
                 //     $src,
-                //     $img_t,    
-                //     $img_l,    
-                //     0,    
-                //     0,   
+                //     $img_t,
+                //     $img_l,
+                //     0,
+                //     0,
                 //     $img_w,
-                //     $img_h   
+                //     $img_h
                 // );
 
                 // imagepng($dest, '2.png');
@@ -108,8 +106,9 @@ class ImageController extends AppController
 
                 $targetPath = WWW_ROOT . 'img' . DS . $name;
 
-                if ($name)
+                if ($name) {
                     $attachment->moveTo($targetPath);
+                }
 
                 $image->image = $name;
             }

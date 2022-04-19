@@ -76,15 +76,13 @@ class UsersTable extends Table
             ]);
 
         $validator
-        ->sameAs('retype_password','password','Error: Password not same');
+        ->sameAs('retype_password', 'password', 'Error: Password not same');
         
         $validator
             ->dateTime('timestamp')
             ->notEmptyDateTime('timestamp');
 
         return $validator;
-
-        
     }
     
     public function buildRules(RulesChecker $rules): RulesChecker
@@ -94,6 +92,4 @@ class UsersTable extends Table
 
         return $rules;
     }
-
-    
 }
